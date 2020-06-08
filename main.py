@@ -1,5 +1,5 @@
 import random
-
+             """Add cases and symbols"""
 LOWERCASE_CHARS = tuple(map(chr, range(ord('a'), ord('z') + 1)))
 UPPERCASE_CHARS = tuple(map(chr, range(ord('A'), ord('Z') + 1)))
 DIGITS = tuple(map(str, range(0, 10)))
